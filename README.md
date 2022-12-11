@@ -1,6 +1,6 @@
 # TestDatapack
 Test Datapack made for fun.
-Here's a list of the custom commands added to the game. All commands will take the following formate:
+Here's a list of the custom commands added to the game. All commands will take the following format:
 A | B | C
 D | E | F  --> R
 G | H | I
