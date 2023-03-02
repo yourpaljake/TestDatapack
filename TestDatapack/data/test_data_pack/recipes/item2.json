@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#C#",
+        "PEP",
+        "P P"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:end_stone"
+        },
+        "C": {
+            "item": "minecraft:chorus_fruit"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "E": {
+            "item": "minecraft:ender_eye"
+        }
+    },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#L#",
+        "DCD",
+        "YYY"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:ice"
+        },
+        "L": {
+            "item": "minecraft:light_blue_dye"
+        },
+        "D": {
+            "item": "minecraft:dragon_breath"
+        },
+        "C": {
+            "item": "minecraft:daylight_detector"
+        },
+        "Y": {
+            "item": "minecraft:lingering_potion"
+        }
+    },
+    "result": {
+        "item": "minecraft:knowledge_book"
+    }
+}

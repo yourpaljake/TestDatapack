@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "nNn",
+        "PFP",
+        "PEP"
+    ],
+    "key": {
+        "n": {
+            "item": "minecraft:netherite_ingot"
+        },
+        "N": {
+            "item": "minecraft:netherite_chestplate"
+        },
+        "P": {
+            "item": "minecraft:phantom_membrane"
+        },
+        "F": {
+            "item": "minecraft:nether_star"
+        },
+        "E": {
+            "item": "minecraft:elytra"
+        }
+    },
+  "result": {
+    "item": "minecraft:knowledge_book"
+  }
+}

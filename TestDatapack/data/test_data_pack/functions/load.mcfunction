@@ -1,0 +1,1 @@
+tellraw @a "<_yourpaljake_> Thanks for downloading!"
