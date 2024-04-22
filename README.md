@@ -4,11 +4,11 @@ Test Datapack made for fun. I plan on updating this to make some items more acce
 **How it works:**
 - Here's a list of the custom crafting recipes added to the game. All recipes will take the following format:
 
-A | B | C 
+  A | B | C 
 
-D | E | F  --> R 
+  D | E | F  --> R 
 
-G | H | I
+  G | H | I
 
 - All recipes will have a Minecraft version above them. This means that all the recipes in the previous version sections and the current version section have been tested to work (You can look at items and take a good guess on what version the recipe would work on, these are just the versions I have tested them on). 
 
