@@ -21,7 +21,7 @@ G | H | I
  - E: Nether Star
  - H: Elytra
 
-2) R: Homemade Elytra
+2) R: False Elytra
  - A,C: End Stone
  - B: Chorus Fruit
  - D,F,G,I: Phantom Membrane
